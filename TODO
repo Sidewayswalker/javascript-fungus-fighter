@@ -1,0 +1,11 @@
+Global Variables: "fungusHP", "userAP"
+    - these cannot go below a value of 0
+4 buttons- focus on 1 attack
+    - on button click
+        - reduce HP
+        - reduce AP
+if the fungus gets to 0 HP.
+    - change the class from "walk" to "dead".
+if user runs out of AP.
+    - change "walk" class to "jump".
+    - you may no longer attack.
